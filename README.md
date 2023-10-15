@@ -1,8 +1,8 @@
 Welcome to your new dbt project!
 
 ## Architecture
+![alt text](https://github.com/roshaan7zafar/dbt-code-main/blob/master/img/dbt_snowflake.PNG)
 
-![alt text](https://github.com/roshaan7zaafar/dbt-code-main/blob/master/img/dbt_snowflake.png?raw=true)
 ### Using the starter project
 
 Try running the following commands:
