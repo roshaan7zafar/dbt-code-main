@@ -2,6 +2,8 @@ Welcome to your new dbt project!
 
 ## Architecture
 
+![alt text](http://url/to/dbt_snowflake.png)
+
 ### Using the starter project
 
 Try running the following commands:
